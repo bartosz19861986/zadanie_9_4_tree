@@ -13,4 +13,4 @@
 
 } 
 
-		var tree1 = drawTree(10);
+		var tree1 = drawTree(15);
